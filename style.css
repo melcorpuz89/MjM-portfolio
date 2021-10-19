@@ -709,3 +709,11 @@ footer{
         }
     }
 }
+        #container{
+            background:#082032;
+            height: 70x;
+            overflow: auto;
+            text-align: center;
+            color: snow;
+            padding: 5px 5px;
+}
