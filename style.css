@@ -707,8 +707,7 @@ footer{
         #header .nav-list ul a:after{
             display: none;
         }
-    }
-}
+  
         #container{
             background:#082032;
             height: 70x;
@@ -716,4 +715,4 @@ footer{
             text-align: center;
             color: snow;
             padding: 5px 5px;
-}
+        }
