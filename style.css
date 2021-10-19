@@ -180,7 +180,7 @@ p{
 }
 /* hero section */
 #hero{
-    background-image: url(./image/baking-colorful-macarons-pechene-desert.jpg);
+    background-image: url(image/baking-colorful-macarons-pechene-desert.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -387,13 +387,13 @@ z-index: -1;
 }
 
 .slide-1{
-    background: url(/image/p1.jpg) no-repeat center center/cover; 
+    background: url(image/p1.jpg) no-repeat center center/cover; 
 }
 .slide-2{
-    background: url(/image/p2.jpg) no-repeat center center/cover;
+    background: url(image/p2.jpg) no-repeat center center/cover;
 }
 .slide-3{
-    background: url(/image/p3.jpg) no-repeat center center/cover;
+    background: url(image/p3.jpg) no-repeat center center/cover;
 }
 /* arrow left and right */
 .slider .arrow{
