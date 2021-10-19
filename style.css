@@ -708,7 +708,7 @@ footer{
             display: none;
         }
   
-        #container{
+        footer{
             background:#082032;
             height: 70x;
             overflow: auto;
